@@ -101,3 +101,4 @@
 
 /* Cover images: show the whole image at its natural aspect ratio, never cropped to a fixed frame (2026-10-26) */
 .tile-image,.articlecover{aspect-ratio:auto;object-fit:initial}
+.tsub{display:block;font-size:.6em;font-weight:500;letter-spacing:.02em;opacity:.72;margin-top:.16em}
