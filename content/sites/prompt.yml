@@ -7,9 +7,9 @@ accent: '#5b4bc4'
 eyebrow: PROMPT GALLERY
 hero_title: '言葉で作る、
 画像の作例集。'
-description: Threads @prompt.546 でシェアしたプロンプトで、実際に画像を生成した作例を貯める場所です。プロンプトと生成結果と元の投稿を、セットで残します。
+description: Threadsでいいねしたプロンプトを使って、Museが画像を生成した作例集です。プロンプト全文と生成結果、元の投稿を、セットで残します。
 subtitle: プロンプトと生成結果の記録
 hero_note: プロンプト × 生成画像 × 元の投稿
-about: Threads @prompt.546 でシェアしたプロンプトの作例集です。各記事にプロンプトの要旨と生成した画像、出典（元の投稿）をセットで残します。生成画像はAI（Muse）が作成したものです。
+about: Threadsでいいねしたプロンプトの作例集です。各記事にプロンプト全文と生成した画像、出典（元の投稿）をセットで残します。生成画像はAI（Muse）が作成したものです。
 
 hero_image: prompt/toy-cowboy.webp

@@ -1,7 +1,7 @@
 # プロンプト作例集
 
-Threads @prompt.546 でシェアしたプロンプトで、実際に画像を生成した作例を貯めるサイトです。
-プロンプトと生成結果と元の投稿を、セットで残します。
+Threadsでいいねしたプロンプトを使って、Museが画像を生成した作例を貯めるサイトです。
+プロンプト全文と生成結果と元の投稿を、セットで残します。
 
 - サイトID: `prompt`
 - 実装は山形グルメ案内（Markdown CMS）と同じ仕組みです。記事の frontmatter に `source_url` を書くと、詳細JSONに `embed_platform`／`embed_url` が付き、記事ページで元の投稿（Threads／Instagram）の公式埋め込みを表示します。
