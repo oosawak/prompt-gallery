@@ -92,3 +92,9 @@
 
 /* Prompt display: wrap text to the article width instead of horizontal scrolling; top padding leaves a strip for the copy button (2026-10-26) */
 .prose pre{white-space:pre-wrap;overflow-wrap:anywhere;overflow-x:visible;max-width:100%;padding-top:42px}
+
+/* Article images: always fit the article column width and keep the aspect ratio, never the file's native pixel size (2026-10-26) */
+.paper{min-width:0}
+.paper img{max-width:100%;height:auto}
+.articlecover{width:100%;max-width:100%}
+.prose img{max-width:100%;height:auto}
