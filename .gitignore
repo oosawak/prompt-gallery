@@ -1,0 +1,6 @@
+# ローカルビルドの中間生成物（コミット対象にしない）
+dist/
+.venv/
+cache/
+__pycache__/
+scripts/__pycache__/
