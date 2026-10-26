@@ -42,6 +42,7 @@ jobs:
         run: python scripts/export_preview.py
       - name: Sync generated files
         run: |
+          mkdir -p data docs/data docs/assets
           rsync -a --delete dist/data/ data/
           rsync -a --delete dist/data/ docs/data/
           rsync -a --delete dist/assets/ docs/assets/
